@@ -1,4 +1,4 @@
-package edu.rafael.projeto1;
+package edu.rafael.projetoTv;
 
 public class Usuario {
     public static void main(String[] args) {
