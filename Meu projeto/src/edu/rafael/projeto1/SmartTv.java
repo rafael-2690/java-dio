@@ -1,4 +1,4 @@
-package edu.rafael.projeto;
+package edu.rafael.projeto1;
 
 public class SmartTv {
     boolean ligada = false;
