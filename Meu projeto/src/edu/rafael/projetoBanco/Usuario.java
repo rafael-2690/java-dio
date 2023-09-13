@@ -7,6 +7,6 @@ public class Usuario {
 
         banco.Sacar(3000);
 
-        System.out.println(banco.valor);
+        banco.Imprimir();
     }
 }
