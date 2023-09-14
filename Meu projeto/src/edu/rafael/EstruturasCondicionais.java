@@ -1,6 +1,6 @@
 package edu.rafael;
 
-public class CondicionaisSimples {
+public class EstruturasCondicionais {
     public static void main(String[] args) {
        double nota = 5;
         String resultado = "";
