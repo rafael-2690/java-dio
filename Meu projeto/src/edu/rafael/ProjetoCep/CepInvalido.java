@@ -1,5 +1,5 @@
 package edu.rafael.ProjetoCep;
 
-public class CepInvalido {
+public class CepInvalido extends Exception {
     
 }
