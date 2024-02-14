@@ -1,5 +1,6 @@
 package edu.rafael;
 public class BoletimEstudantil {
+    
     public static void main(String[] args) {
         int media = 6;
         if(media<6){
